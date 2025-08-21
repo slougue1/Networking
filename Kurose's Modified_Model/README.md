@@ -1,4 +1,7 @@
+pin test successfull on all devices of Home Network
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/26fff4f4-2d19-4185-ae39-561caeb781b7" />
+
+ping 10.0.21.4, ping 2001:db8:0:21::4, and tracert 10.0.21.4 successfull on Enterprise Network
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/0c1b2000-3134-4c70-a3a5-343b2ef8a708" />
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/6043edc7-320a-457f-906d-17693287225f" />
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/6203546e-87d0-457a-9293-3e9acb1ba3d5" />
